@@ -1,0 +1,9 @@
+<container flexDirection="column" alignItems="center" gap="2" paddingTop="4" paddingBottom="4" paddingLeft="6" paddingRight="6">
+  <text id="lbl-mode" fontSize="8" color="#888888">Classic</text>
+  <text id="lbl-pairs" fontSize="10" color="#00ffcc">Pairs: 0/6</text>
+  <text id="lbl-moves" fontSize="10" color="#ffcc00">Moves: 0</text>
+  <text id="lbl-time" fontSize="10" color="#00ccff">Time: 0:00</text>
+  <text id="lbl-combo" fontSize="10" color="#ff8800">Combo: x1</text>
+  <text id="lbl-score" fontSize="12" fontWeight="bold" color="#ffffff">Score: 0</text>
+  <text id="lbl-best" fontSize="8" color="#666666">Best: 0</text>
+</container>

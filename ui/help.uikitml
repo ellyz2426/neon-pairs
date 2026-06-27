@@ -1,0 +1,25 @@
+<container flexDirection="column" alignItems="center" gap="2" paddingTop="4" paddingBottom="4" paddingLeft="6" paddingRight="6">
+  <text fontSize="16" fontWeight="bold" color="#aaaaaa">HELP</text>
+  <text fontSize="9" fontWeight="bold" color="#00ffcc">Browser Controls</text>
+  <text fontSize="7" color="#cccccc">Click - Flip card</text>
+  <text fontSize="7" color="#cccccc">ESC / P - Pause</text>
+  <text fontSize="7" color="#cccccc">R - Rematch</text>
+  <text fontSize="9" fontWeight="bold" color="#00ffcc" marginTop="2">VR Controls</text>
+  <text fontSize="7" color="#cccccc">Trigger - Flip card</text>
+  <text fontSize="7" color="#cccccc">Laser - Aim at card</text>
+  <text fontSize="7" color="#cccccc">B - Pause</text>
+  <text fontSize="9" fontWeight="bold" color="#ffcc00" marginTop="2">Gameplay</text>
+  <text fontSize="7" color="#cccccc">Flip two cards per turn</text>
+  <text fontSize="7" color="#cccccc">Match pairs to clear</text>
+  <text fontSize="7" color="#cccccc">Consecutive matches = combo</text>
+  <text fontSize="9" fontWeight="bold" color="#ff8800" marginTop="2">Modes</text>
+  <text fontSize="7" color="#cccccc">Classic - Clear all pairs</text>
+  <text fontSize="7" color="#cccccc">Timed - Beat the clock</text>
+  <text fontSize="7" color="#cccccc">Moves - Limited flips</text>
+  <text fontSize="7" color="#cccccc">Speed - Fast matches</text>
+  <text fontSize="7" color="#cccccc">Zen - No pressure</text>
+  <text fontSize="7" color="#cccccc">Daily - Seeded puzzle</text>
+  <text fontSize="7" color="#cccccc">Endless - Boards keep coming</text>
+  <text fontSize="7" color="#cccccc">Blind - Cards flash then hide</text>
+  <text id="btn-back" fontSize="10" color="#888888" cursor="pointer" marginTop="3">BACK</text>
+</container>

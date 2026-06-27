@@ -1,0 +1,14 @@
+<container flexDirection="column" alignItems="center" gap="8" paddingTop="6" paddingBottom="6" paddingLeft="8" paddingRight="8">
+  <text id="lbl-title" fontSize="28" fontWeight="bold" color="#00ffff">NEON PAIRS</text>
+  <text id="lbl-subtitle" fontSize="10" color="#66cccc">MEMORY MATCHING</text>
+  <text id="lbl-level" fontSize="8" color="#88aaaa">Level 1</text>
+  <container flexDirection="column" gap="4" marginTop="4">
+    <text id="btn-play" fontSize="14" color="#00ffcc" hover-color="#ffffff" cursor="pointer">PLAY</text>
+    <text id="btn-scores" fontSize="14" color="#00ccff" hover-color="#ffffff" cursor="pointer">SCORES</text>
+    <text id="btn-achievements" fontSize="14" color="#ffcc00" hover-color="#ffffff" cursor="pointer">ACHIEVEMENTS</text>
+    <text id="btn-stats" fontSize="14" color="#00ff88" hover-color="#ffffff" cursor="pointer">STATS</text>
+    <text id="btn-skins" fontSize="14" color="#ff66cc" hover-color="#ffffff" cursor="pointer">CARD SKINS</text>
+    <text id="btn-settings" fontSize="14" color="#8888ff" hover-color="#ffffff" cursor="pointer">SETTINGS</text>
+    <text id="btn-help" fontSize="14" color="#aaaaaa" hover-color="#ffffff" cursor="pointer">HELP</text>
+  </container>
+</container>

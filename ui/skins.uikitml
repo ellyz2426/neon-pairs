@@ -1,0 +1,12 @@
+<container flexDirection="column" alignItems="center" gap="2" paddingTop="4" paddingBottom="4" paddingLeft="6" paddingRight="6">
+  <text fontSize="16" fontWeight="bold" color="#ff66cc">CARD SKINS</text>
+  <text id="sk0" fontSize="8" color="#00ffcc" cursor="pointer">Neon Cyan [Equipped]</text>
+  <text id="sk1" fontSize="8" color="#ff8800" cursor="pointer">Solar Flare</text>
+  <text id="sk2" fontSize="8" color="#ff66cc" cursor="pointer">Plasma Pink</text>
+  <text id="sk3" fontSize="8" color="#88ccff" cursor="pointer">Frost Blue</text>
+  <text id="sk4" fontSize="8" color="#88ff88" cursor="pointer">Toxic Green</text>
+  <text id="sk5" fontSize="8" color="#ffcc00" cursor="pointer">Royal Gold</text>
+  <text id="sk6" fontSize="8" color="#aa66ff" cursor="pointer">Void Purple</text>
+  <text id="sk7" fontSize="8" color="#ff4444" cursor="pointer">Inferno Red</text>
+  <text id="btn-back" fontSize="10" color="#888888" cursor="pointer" marginTop="3">BACK</text>
+</container>

@@ -1,0 +1,3 @@
+<container flexDirection="column" alignItems="center" gap="2" paddingTop="3" paddingBottom="3" paddingLeft="4" paddingRight="4">
+  <text id="lbl-toast" fontSize="10" fontWeight="bold" color="#ffcc00">Achievement!</text>
+</container>

@@ -1,0 +1,14 @@
+<container flexDirection="column" alignItems="center" gap="2" paddingTop="4" paddingBottom="4" paddingLeft="6" paddingRight="6">
+  <text fontSize="16" fontWeight="bold" color="#ffcc00">SCORES</text>
+  <text id="row0" fontSize="8" color="#cccccc">1. ---</text>
+  <text id="row1" fontSize="8" color="#cccccc">2. ---</text>
+  <text id="row2" fontSize="8" color="#cccccc">3. ---</text>
+  <text id="row3" fontSize="8" color="#cccccc">4. ---</text>
+  <text id="row4" fontSize="8" color="#cccccc">5. ---</text>
+  <text id="row5" fontSize="8" color="#cccccc">6. ---</text>
+  <text id="row6" fontSize="8" color="#cccccc">7. ---</text>
+  <text id="row7" fontSize="8" color="#cccccc">8. ---</text>
+  <text id="row8" fontSize="8" color="#cccccc">9. ---</text>
+  <text id="row9" fontSize="8" color="#cccccc">10. ---</text>
+  <text id="btn-back" fontSize="10" color="#888888" cursor="pointer" marginTop="3">BACK</text>
+</container>

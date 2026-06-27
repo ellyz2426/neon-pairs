@@ -1,0 +1,3 @@
+<container flexDirection="column" alignItems="center" gap="2" paddingTop="4" paddingBottom="4" paddingLeft="6" paddingRight="6">
+  <text id="lbl-count" fontSize="36" fontWeight="bold" color="#00ffcc">3</text>
+</container>

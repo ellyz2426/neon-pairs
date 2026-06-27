@@ -1,0 +1,28 @@
+<container flexDirection="column" alignItems="center" gap="3" paddingTop="4" paddingBottom="4" paddingLeft="6" paddingRight="6">
+  <text fontSize="16" fontWeight="bold" color="#00ff88">SETTINGS</text>
+  <container flexDirection="row" gap="4" alignItems="center">
+    <text fontSize="9" color="#cccccc">Master</text>
+    <text id="btn-master-down" fontSize="10" color="#888888" cursor="pointer">-</text>
+    <text id="lbl-master" fontSize="9" color="#ffffff">100</text>
+    <text id="btn-master-up" fontSize="10" color="#888888" cursor="pointer">+</text>
+  </container>
+  <container flexDirection="row" gap="4" alignItems="center">
+    <text fontSize="9" color="#cccccc">SFX</text>
+    <text id="btn-sfx-down" fontSize="10" color="#888888" cursor="pointer">-</text>
+    <text id="lbl-sfx" fontSize="9" color="#ffffff">100</text>
+    <text id="btn-sfx-up" fontSize="10" color="#888888" cursor="pointer">+</text>
+  </container>
+  <container flexDirection="row" gap="4" alignItems="center">
+    <text fontSize="9" color="#cccccc">Music</text>
+    <text id="btn-music-down" fontSize="10" color="#888888" cursor="pointer">-</text>
+    <text id="lbl-music" fontSize="9" color="#ffffff">100</text>
+    <text id="btn-music-up" fontSize="10" color="#888888" cursor="pointer">+</text>
+  </container>
+  <container flexDirection="row" gap="4" alignItems="center">
+    <text fontSize="9" color="#cccccc">Theme</text>
+    <text id="btn-theme-prev" fontSize="10" color="#888888" cursor="pointer">&lt;</text>
+    <text id="lbl-theme" fontSize="9" color="#00ffcc">Neon Holodeck</text>
+    <text id="btn-theme-next" fontSize="10" color="#888888" cursor="pointer">&gt;</text>
+  </container>
+  <text id="btn-back" fontSize="10" color="#888888" cursor="pointer" marginTop="3">BACK</text>
+</container>

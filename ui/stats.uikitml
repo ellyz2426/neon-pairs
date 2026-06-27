@@ -1,0 +1,14 @@
+<container flexDirection="column" alignItems="center" gap="2" paddingTop="4" paddingBottom="4" paddingLeft="6" paddingRight="6">
+  <text fontSize="16" fontWeight="bold" color="#00ff88">STATS</text>
+  <text id="s0" fontSize="8" color="#cccccc">Games: 0</text>
+  <text id="s1" fontSize="8" color="#cccccc">Total Score: 0</text>
+  <text id="s2" fontSize="8" color="#cccccc">Best Score: 0</text>
+  <text id="s3" fontSize="8" color="#cccccc">Total Pairs: 0</text>
+  <text id="s4" fontSize="8" color="#cccccc">Total Moves: 0</text>
+  <text id="s5" fontSize="8" color="#cccccc">Best Combo: 0</text>
+  <text id="s6" fontSize="8" color="#cccccc">Perfect Games: 0</text>
+  <text id="s7" fontSize="8" color="#cccccc">Accuracy: 0%</text>
+  <text id="s8" fontSize="8" color="#cccccc">Play Time: 0m</text>
+  <text id="s9" fontSize="8" color="#cccccc">Level: 1</text>
+  <text id="btn-back" fontSize="10" color="#888888" cursor="pointer" marginTop="3">BACK</text>
+</container>

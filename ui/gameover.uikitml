@@ -1,0 +1,15 @@
+<container flexDirection="column" alignItems="center" gap="3" paddingTop="6" paddingBottom="6" paddingLeft="8" paddingRight="8">
+  <text id="lbl-result" fontSize="20" fontWeight="bold" color="#00ffcc">COMPLETE!</text>
+  <text id="lbl-mode" fontSize="10" color="#888888">Classic</text>
+  <text id="lbl-score" fontSize="14" color="#ffffff">Score: 1200</text>
+  <text id="lbl-pairs" fontSize="10" color="#00ccff">Pairs: 6/6</text>
+  <text id="lbl-moves" fontSize="10" color="#ffcc00">Moves: 12</text>
+  <text id="lbl-time" fontSize="10" color="#00ccff">Time: 0:45</text>
+  <text id="lbl-accuracy" fontSize="10" color="#ff8800">Accuracy: 100%</text>
+  <text id="lbl-combo" fontSize="10" color="#ff66cc">Best Combo: x5</text>
+  <text id="lbl-rating" fontSize="12" color="#ffcc00">Rating: S</text>
+  <container flexDirection="column" gap="3" marginTop="4">
+    <text id="btn-rematch" fontSize="14" color="#00ffcc" cursor="pointer">REMATCH</text>
+    <text id="btn-menu" fontSize="14" color="#888888" cursor="pointer">MENU</text>
+  </container>
+</container>

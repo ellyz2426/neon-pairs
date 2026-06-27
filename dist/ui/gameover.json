@@ -1,0 +1,309 @@
+{
+  "element": {
+    "sourceTag": "container",
+    "type": "custom",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "COMPLETE!"
+        ],
+        "properties": {
+          "id": "lbl-result",
+          "fontsize": "20",
+          "fontweight": "bold",
+          "color": "#00ffcc"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Classic"
+        ],
+        "properties": {
+          "id": "lbl-mode",
+          "fontsize": "10",
+          "color": "#888888"
+        },
+        "dataUid": "uid-3"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Score: 1200"
+        ],
+        "properties": {
+          "id": "lbl-score",
+          "fontsize": "14",
+          "color": "#ffffff"
+        },
+        "dataUid": "uid-4"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Pairs: 6/6"
+        ],
+        "properties": {
+          "id": "lbl-pairs",
+          "fontsize": "10",
+          "color": "#00ccff"
+        },
+        "dataUid": "uid-5"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Moves: 12"
+        ],
+        "properties": {
+          "id": "lbl-moves",
+          "fontsize": "10",
+          "color": "#ffcc00"
+        },
+        "dataUid": "uid-6"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Time: 0:45"
+        ],
+        "properties": {
+          "id": "lbl-time",
+          "fontsize": "10",
+          "color": "#00ccff"
+        },
+        "dataUid": "uid-7"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Accuracy: 100%"
+        ],
+        "properties": {
+          "id": "lbl-accuracy",
+          "fontsize": "10",
+          "color": "#ff8800"
+        },
+        "dataUid": "uid-8"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Best Combo: x5"
+        ],
+        "properties": {
+          "id": "lbl-combo",
+          "fontsize": "10",
+          "color": "#ff66cc"
+        },
+        "dataUid": "uid-9"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Rating: S"
+        ],
+        "properties": {
+          "id": "lbl-rating",
+          "fontsize": "12",
+          "color": "#ffcc00"
+        },
+        "dataUid": "uid-10"
+      },
+      {
+        "sourceTag": "container",
+        "type": "custom",
+        "children": [
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "REMATCH"
+            ],
+            "properties": {
+              "id": "btn-rematch",
+              "fontsize": "14",
+              "color": "#00ffcc",
+              "cursor": "pointer"
+            },
+            "dataUid": "uid-12"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "MENU"
+            ],
+            "properties": {
+              "id": "btn-menu",
+              "fontsize": "14",
+              "color": "#888888",
+              "cursor": "pointer"
+            },
+            "dataUid": "uid-13"
+          }
+        ],
+        "properties": {
+          "flexdirection": "column",
+          "gap": "3",
+          "margintop": "4"
+        },
+        "dataUid": "uid-11"
+      }
+    ],
+    "properties": {
+      "flexdirection": "column",
+      "alignitems": "center",
+      "gap": "3",
+      "paddingtop": "6",
+      "paddingbottom": "6",
+      "paddingleft": "8",
+      "paddingright": "8"
+    },
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 14,
+        "column": 12
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 2
+      },
+      "end": {
+        "line": 1,
+        "column": 88
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 2
+      },
+      "end": {
+        "line": 2,
+        "column": 66
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 2
+      },
+      "end": {
+        "line": 3,
+        "column": 71
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 2
+      },
+      "end": {
+        "line": 4,
+        "column": 70
+      }
+    },
+    "uid-6": {
+      "start": {
+        "line": 5,
+        "column": 2
+      },
+      "end": {
+        "line": 5,
+        "column": 69
+      }
+    },
+    "uid-7": {
+      "start": {
+        "line": 6,
+        "column": 2
+      },
+      "end": {
+        "line": 6,
+        "column": 69
+      }
+    },
+    "uid-8": {
+      "start": {
+        "line": 7,
+        "column": 2
+      },
+      "end": {
+        "line": 7,
+        "column": 77
+      }
+    },
+    "uid-9": {
+      "start": {
+        "line": 8,
+        "column": 2
+      },
+      "end": {
+        "line": 8,
+        "column": 74
+      }
+    },
+    "uid-10": {
+      "start": {
+        "line": 9,
+        "column": 2
+      },
+      "end": {
+        "line": 9,
+        "column": 70
+      }
+    },
+    "uid-11": {
+      "start": {
+        "line": 10,
+        "column": 2
+      },
+      "end": {
+        "line": 13,
+        "column": 14
+      }
+    },
+    "uid-12": {
+      "start": {
+        "line": 11,
+        "column": 4
+      },
+      "end": {
+        "line": 11,
+        "column": 88
+      }
+    },
+    "uid-13": {
+      "start": {
+        "line": 12,
+        "column": 4
+      },
+      "end": {
+        "line": 12,
+        "column": 82
+      }
+    }
+  }
+}
